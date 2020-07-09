@@ -8,7 +8,7 @@ import sys
 if sys.version_info[0] !=3: 
     print('''--------------------------------------
     REQUIRED PYTHON 3.x
-    use: python3 fb.py
+    use: python3 target.py
 --------------------------------------
             ''')
     sys.exit()
@@ -45,7 +45,7 @@ def function(email,passw,i):
         return True
     return False
 
-print('\n---------- Welcome To Facebook BruteForce ----------\n')
+print('\n----------* Welcome To Facebook BruteForce By MH-13-CYBER *----------\n')
 file=open('passwords.txt','r')
 
 email=input('Enter Email/Username : ')
