@@ -20,9 +20,6 @@ GHT = '''
         |#Contact:www.facebook.com/Mh-13-cyber-108833804225672|
         |#Date: 09/06/2020                                    |
         |#This tool is made for pentesting.                   |
-        |#Changing the Description of this tool               |
-        |Won't made you the coder ^_^ !!!                     |
-        |#Respect Coderz ^_^                                  |
         |#I take no responsibilities for the                  |
         |  use of this program !                              |
         +=====================================================+
